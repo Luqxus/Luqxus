@@ -1,5 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">🚀 Full Stack & Web3 Engineer crafting robust solutions across stacks</h3>
+🚀 Full Stack & Web3 Engineer crafting robust solutions across stacks
+
+💻 Tech Stack:
+- Backend: Go, Java, Node.js
+- Mobile: React Native, Flutter 
+- Frontend: TypeScript, React
+- Web3: Solidity, ZK-SNARK, Rust
+- DevOps: Docker, K8s
+
+⛓️ Blockchain & DeFi:
+- Smart Contract Development
+- Zero-Knowledge Proofs
+- Decentralized Systems Architecture
+- Layer 2 Solutions
+
+🛠️ Building scalable microservices & trustless systems
+🌱 Currently exploring: ZK-rollups, Privacy-preserving DApps
+🔗 Bridging TradFi & DeFi through scalable solutions
+
+📫 Open to collaboration on innovative projects in Web2 & Web3
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luqxus" alt="luqxus" /></a> </p>
 
