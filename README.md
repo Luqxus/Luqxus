@@ -1,26 +1,137 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-🚀 Full Stack & Web3 Engineer crafting robust solutions across stacks
+<h1 align="center">Hi 👋, I'm Lucas <br/>Full Stack & Web3 Engineer</h1>
+<h3 align="center">🚀 Crafting robust solutions across stacks</h3>
 
-💻 Tech Stack:
-- Backend: Go, Java, Node.js
-- Mobile: React Native, Flutter 
-- Frontend: TypeScript, React
-- Web3: Solidity, ZK-SNARK, Rust
-- DevOps: Docker, K8s
-
-⛓️ Blockchain & DeFi:
-- Smart Contract Development
-- Zero-Knowledge Proofs
-- Decentralized Systems Architecture
-- Layer 2 Solutions
-
-🛠️ Building scalable microservices & trustless systems
-🌱 Currently exploring: ZK-rollups, Privacy-preserving DApps
-🔗 Bridging TradFi & DeFi through scalable solutions
-
-📫 Open to collaboration on innovative projects in Web2 & Web3
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luqxus" alt="luqxus" /></a> </p>
+
+
+<div align="center">
+
+```mermaid
+graph TD;
+    A[Full Stack Development]-->B[Frontend];
+    A-->C[Backend];
+    A-->D[Mobile];
+    A-->E[Web3];
+    B-->F[TypeScript];
+    B-->G[React];
+    C-->H[Go];
+    C-->I[Java];
+    C-->J[Node.js];
+    D-->K[React Native];
+    D-->L[Flutter];
+    E-->M[Solidity];
+    E-->N[ZK-SNARK];
+    E-->O[Rust];
+
+    style A fill:#2ecc71,stroke:#27ae60,stroke-width:2px;
+    style B fill:#3498db,stroke:#2980b9,stroke-width:2px;
+    style C fill:#9b59b6,stroke:#8e44ad,stroke-width:2px;
+    style D fill:#e74c3c,stroke:#c0392b,stroke-width:2px;
+    style E fill:#f1c40f,stroke:#f39c12,stroke-width:2px;
+```
+
+</div>
+
+<h2 align="left">💻 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+
+**Backend**
+
+- Go
+- Java
+- Node.js
+</td>
+<td align="center" width="160">
+
+**Frontend**
+
+- TypeScript
+- React
+</td>
+<td align="center" width="160">
+
+**Mobile**
+
+- React Native
+- Flutter
+</td>
+<td align="center" width="160">
+
+**Web3**
+
+- Solidity
+- ZK-SNARK
+- Rust
+</td>
+<td align="center" width="160">
+
+**DevOps**
+
+- Docker
+- Kubernetes
+</td>
+</tr>
+</table>
+
+<h2 align="left">⛓️ Blockchain & DeFi Expertise</h2>
+
+<div align="center">
+
+|     Smart Contracts     |     Zero-Knowledge      |        Architecture        |      Layer 2      |
+| :---------------------: | :---------------------: | :------------------------: | :---------------: |
+| Development & Auditing  | ZK-SNARK Implementation |   Decentralized Systems    | Scaling Solutions |
+| Security Best Practices |  Privacy Preservation   | Microservices Architecture | Rollup Technology |
+
+</div>
+
+<h2 align="left">🔥 Current Focus</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  
+**🌱 Exploring**
+- ZK-rollups
+- Privacy-preserving DApps
+- Cross-chain Solutions
+</td>
+<td align="center">
+  
+**🛠️ Building**
+- Scalable Microservices
+- Trustless Systems 
+- Layer 2 Infrastructure
+</td>
+<td align="center">
+  
+**🔗 Bridging**
+- TradFi & DeFi
+- Web2 & Web3
+- Legacy & Blockchain
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<h2>📫 Let's Connect</h2>
+
+<p>Open to collaboration on innovative projects in Web2 & Web3</p>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+
+</div>
+
+---
+
+<div align="center">
+  <p><i>Building the decentralized future, one commit at a time</i></p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +145,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luqxus&show_icons=true&locale=en" alt="luqxus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luqxus&" alt="luqxus" /></p>
-
